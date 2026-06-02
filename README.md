@@ -2,24 +2,31 @@
 
 **Live Demo:** [Klik di sini untuk melihat website](https://juliusnugroho05.github.io/VPhone-Website/)
 
-VPhone adalah proyek pengembangan front-end yang dirancang dengan standar UI/UX tinggi untuk mensimulasikan pengalaman belanja perangkat teknologi papan atas. Proyek ini dibangun sepenuhnya menggunakan **Vanilla HTML, CSS, dan JavaScript**, tanpa mengandalkan *framework* eksternal, guna mendemonstrasikan keahlian dalam manipulasi DOM, arsitektur desain modern, serta efisiensi kode *client-side*.
+VPhone is a front-end development project designed with high UI/UX standards to simulate a premium tech device shopping experience. This project is built entirely using Vanilla HTML, CSS, and JavaScript, without relying on external frameworks, to demonstrate expertise in DOM manipulation, modern design architecture, and client-side code efficiency.
 
-## Fitur Utama (Key Features)
-* **Premium & Minimalist UI:** Mengadopsi tren desain *Dark Mode*, *Glassmorphism*, dan tipografi tebal untuk memberikan kesan eksklusif dan profesional.
-* **Fully Responsive Design:** Antarmuka yang beradaptasi secara sempurna di berbagai ukuran layar (*Desktop, Tablet, & Mobile*) dengan sistem navigasi interaktif.
-* **Fake Backend Authentication:** Implementasi **LocalStorage API** untuk mengelola alur pendaftaran (*Register*) dan masuk (*Login*) pengguna, memberikan fungsionalitas aplikasi nyata tanpa ketergantungan pada *server* eksternal.
-* **Interactive User Experience:** * *Bento-box Style Information Modals* untuk detail spesifikasi.
-  * *Interactive Color Swatches* untuk personalisasi produk.
-  * *Dynamic Personalized Greeting* yang muncul otomatis setelah pengguna berhasil masuk.
-* **Custom 404 Error Page:** Halaman penanganan kesalahan yang didesain khusus untuk menjaga retensi pengguna dan konsistensi estetika.
+**Key Features**
+Premium & Minimalist UI: Adopts Dark Mode, Glassmorphism, and bold typography design trends to provide an exclusive and professional impression.
 
-##  Teknologi yang Digunakan (Tech Stack)
-* **HTML5** (Semantik & Aksesibilitas)
-* **CSS3** (Flexbox, CSS Variables, Keyframe Animations, Intersection Observer API)
-* **JavaScript (ES6+)** (Event Listeners, DOM Manipulation, LocalStorage API, Form Validation)
+Fully Responsive Design: An interface that adapts seamlessly across various screen sizes (Desktop, Tablet, & Mobile) with an interactive navigation system.
 
-##  Disclaimer
-Proyek ini dibuat sepenuhnya untuk tujuan edukasi dan demonstrasi keahlian pengembangan *web*. Seluruh nama produk dan merek dalam proyek ini adalah fiktif. Tidak ada afiliasi dengan entitas teknologi sungguhan mana pun. Gambar disediakan oleh Unsplash (Royalty-Free).
+Fake Backend Authentication: Implementation of the LocalStorage API to manage user registration and login workflows, providing real-world application functionality without reliance on external servers.
 
----
-*Created by Julius Nugroho | 2026*
+Interactive User Experience:
+
+Bento-box Style Information Modals for specification details.
+
+Interactive Color Swatches for product personalization.
+
+Dynamic Personalized Greeting that appears automatically upon successful user login.
+
+Custom 404 Error Page: A specially designed error-handling page to maintain user retention and aesthetic consistency.
+
+**Tech Stack**
+HTML5 (Semantics & Accessibility)
+
+CSS3 (Flexbox, CSS Variables, Keyframe Animations, Intersection Observer API)
+
+JavaScript (ES6+) (Event Listeners, DOM Manipulation, LocalStorage API, Form Validation)
+
+**Disclaimer**
+This project is created entirely for educational purposes and to demonstrate web development skills. All product names and brands in this project are fictitious. There is no affiliation with any real-world tech entities. Images are provided by Unsplash (Royalty-Free).
